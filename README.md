@@ -1,7 +1,6 @@
 # Windows-Forensics-Projects
-Windows-Forensics-Projects
 
-# Windows Forensics Projects for Beginners
+# Windows Forensics Projects 
 
 Welcome to the Cybersecurity Training Projects repository! This repository contains hands-on projects designed to learn and practice Windows forensics and other essential cybersecurity skills.
 
