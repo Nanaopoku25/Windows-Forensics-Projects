@@ -16,7 +16,7 @@ To get started with these projects, follow these steps:
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/0xrajneesh/Windows-Forensics-Projects.git
+    git clone https://github.com/Nanaopoku25/Windows-Forensics-Projects/tree/main
     cd Windows-Forensics-Projects
     ```
 
