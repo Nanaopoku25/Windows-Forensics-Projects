@@ -26,6 +26,6 @@ To get started with these projects, follow these steps:
 2. Ensure you meet the pre-requisites and have the necessary tools and setup as described in each project.
 
 ## About Me
-
+I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 
