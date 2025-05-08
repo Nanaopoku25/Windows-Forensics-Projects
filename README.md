@@ -4,11 +4,11 @@ Welcome to the Cybersecurity Training Projects repository! This repository conta
 
 ## Projects
 
-1. [Investigating Windows Event Logs for Security Incidents](https://github.com/0xrajneesh/Windows-Forensics-Projects/blob/main/project-1-investigating-windows-event-logs-for-security-incidents.md)
-2. [Analyzing Windows Registry for Evidence of Malicious Activity](https://github.com/0xrajneesh/Windows-Forensics-Projects/blob/main/project-2-Analyzing-Windows-registry-for-evidences.md)
-3. [Forensic Analysis of Windows File Systems and Artifacts](https://github.com/0xrajneesh/Windows-Forensics-Projects/blob/main/project-3-Forensic-analysis-of-Windows-file-system-and-artifacts.md)
-4. [Extracting and Interpreting Browser Artifacts on Windows](https://github.com/0xrajneesh/Windows-Forensics-Projects/blob/main/project-4-extracting-and-interpreting-browser-artifacts-on-windows.md)
-5. [Recovering and Analyzing Deleted Files on Windows Systems](https://github.com/0xrajneesh/Windows-Forensics-Projects/blob/main/project-5-Recovering-and-Analyzing-Deleted-Files-on-Windows-Systems.md)
+1. [Investigating Windows Event Logs for Security Incidents]()
+2. [Analyzing Windows Registry for Evidence of Malicious Activity]()
+3. [Forensic Analysis of Windows File Systems and Artifacts]()
+4. [Extracting and Interpreting Browser Artifacts on Windows]()
+5. [Recovering and Analyzing Deleted Files on Windows Systems]()
 
 ## Getting Started
 
