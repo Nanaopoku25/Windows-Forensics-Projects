@@ -4,7 +4,7 @@ Welcome to the Cybersecurity Training Projects repository! This repository conta
 
 ## Projects
 
-1. [Investigating Windows Event Logs for Security Incidents]()
+1. [Investigating Windows Event Logs for Security Incidents](https://github.com/Nanaopoku25/Windows-Forensics-Projects/blob/main/Analyzing%20Windows%20Registry%20for%20Evidence%20of%20Malicious%20Activity)
 2. [Analyzing Windows Registry for Evidence of Malicious Activity]()
 3. [Forensic Analysis of Windows File Systems and Artifacts]()
 4. [Extracting and Interpreting Browser Artifacts on Windows]()
